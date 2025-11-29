@@ -2,13 +2,14 @@
 
 <img width="2068" height="944" alt="image" src="https://github.com/user-attachments/assets/8cc3dc56-d17a-4c82-affc-3aa80b3e38d3" />
 
-Step 1) Download the scene from this Repo
 
-Step 2) Download Omniverse from https://github.com/NVIDIA-Omniverse
+Step 1) Download Omniverse from https://github.com/NVIDIA-Omniverse
 
-Step 3) Download the ia_vision extension from this Repo
+Step 2) Download the scene from this Repo
 
-Step 4) Build Omnivere and load the extension
+Step 3) Download the vlm-psp extension from this Repo
+
+Step 4) Build Omniverse and activate the extension
 
 Step 5) Load the scene
 
