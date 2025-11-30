@@ -47,7 +47,7 @@ Open the extension settings and provide any required API keys or access tokens.
 
 ## **7) Start Exploring**
 
-Use the Intelligent Assistant panel to ask questions and test navigation.
+Use the Intelligent Assistant panel to ask questions and test your VLMs for PSP.
 
 <img width="428" height="280" alt="image" src="https://github.com/user-attachments/assets/d0e5b02c-40e5-4180-aa4f-f3b9cafb701d" />
 
