@@ -1,0 +1,152 @@
+[
+  {
+    "id": "Q1",
+    "question": "Does every robotic cell have a corresponding media supply?",
+    "categories": ["#ObjectPresence"]
+  },
+  {
+    "id": "Q2",
+    "question": "Are there media supplies without nearby media pipes?",
+    "categories": ["#ObjectPresence", "#Proximity"]
+  },
+  {
+    "id": "Q3",
+    "question": "Are the robot and its target position (e.g., intake station) on opposite sides of an expansion joint?",
+    "categories": ["#SpatialRelation"]
+  },
+  {
+    "id": "Q4",
+    "question": "Are all robotic cells fully enclosed by fencing?",
+    "categories": ["#ObjectPresence"]
+  },
+  {
+    "id": "Q5",
+    "question": "Do all robotic cells include a door in their fencing?",
+    "categories": ["#ObjectPresence"]
+  },
+  {
+    "id": "Q6",
+    "question": "Do robots have the required equipment within reach (e.g., tip dresser)?",
+    "categories": ["#ObjectPresence", "#Proximity"]
+  },
+  {
+    "id": "Q7",
+    "question": "For welding stations, is a spray guard present to protect passing workers?",
+    "categories": ["#ObjectPresence"]
+  },
+  {
+    "id": "Q8",
+    "question": "Do all columns in logistics areas have adequate ram protection?",
+    "categories": ["#ObjectPresence"]
+  },
+  {
+    "id": "Q9",
+    "question": "Are enough fire extinguishers available?",
+    "categories": ["#ObjectPresence"]
+  },
+  {
+    "id": "Q10",
+    "question": "Are fire extinguishers positioned so they are not easily struck by logistics equipment?",
+    "categories": ["#SpatialRelation"]
+  },
+  {
+    "id": "Q11",
+    "question": "Does an articulated robot fit into this space?",
+    "categories": ["#SpaceConstraint"]
+  },
+  {
+    "id": "Q12",
+    "question": "Are evacuation paths free of blockages?",
+    "categories": ["#SpaceConstraint"]
+  },
+  {
+    "id": "Q13",
+    "question": "Is there enough space to remove defective products from the process?",
+    "categories": ["#SpaceConstraint"]
+  },
+  {
+    "id": "Q14",
+    "question": "Do interfering contours (robots, doors, etc.) avoid collisions?",
+    "categories": ["#Collision"]
+  },
+  {
+    "id": "Q15",
+    "question": "Is there sufficient headroom for crane-based robot removal (maintenance)?",
+    "categories": ["#SpaceConstraint"]
+  },
+  {
+    "id": "Q16",
+    "question": "Is the lighting system present in this area?",
+    "categories": ["#ObjectPresence"]
+  },
+  {
+    "id": "Q17",
+    "question": "Are enough sprinklers installed?",
+    "categories": ["#ObjectPresence"]
+  },
+  {
+    "id": "Q18",
+    "question": "Does sprinkler water reach the required area without obstruction?",
+    "categories": ["#SpatialRelation"]
+  },
+  {
+    "id": "Q19",
+    "question": "Do pipes pass through the required openings in metal or concrete structures?",
+    "categories": ["#Collision"]
+  },
+  {
+    "id": "Q20",
+    "question": "Does equipment avoid collisions with steel structures such as mezzanines or stairs?",
+    "categories": ["#Collision"]
+  },
+  {
+    "id": "Q21",
+    "question": "Is there sufficient headroom along logistics routes?",
+    "categories": ["#SpaceConstraint"]
+  },
+  {
+    "id": "Q22",
+    "question": "How many robots are present?",
+    "categories": ["#Counting"]
+  },
+  {
+    "id": "Q23",
+    "question": "Do all main conveyors have uninterrupted clearance along their entire path?",
+    "categories": ["#SpaceConstraint"]
+  },
+  {
+    "id": "Q24",
+    "question": "Are major logistics racks positioned within their designated logistics zones?",
+    "categories": ["#ObjectPresence", "#SpatialRelation"]
+  },
+  {
+    "id": "Q25",
+    "question": "Is the main aisle wide enough for tugger trains to pass without obstruction?",
+    "categories": ["#SpaceConstraint"]
+  },
+  {
+    "id": "Q26",
+    "question": "Where is the marriage station located?",
+    "categories": ["#Navigation"]
+  },
+  {
+    "id": "Q27",
+    "question": "Can you navigate to the end of this line?",
+    "categories": ["#Navigation"]
+  },
+  {
+    "id": "Q28",
+    "question": "How many boxes are in the component outfeed area?",
+    "categories": ["#Counting", "#SpatialRelation"]
+  },
+  {
+    "id": "Q29",
+    "question": "What is the build state of the car at this location?",
+    "categories": ["#EnhancedInterpretation"]
+  },
+  {
+    "id": "Q30",
+    "question": "What process is performed at this station?",
+    "categories": ["#EnhancedInterpretation"]
+  }
+]
